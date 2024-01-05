@@ -331,8 +331,8 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/ayrsd/audiostellar.git
-        tag: "1.4"
-        commit: "76f9d7645f20a01d0b41cfb2e82de397829f413d"
+        tag: "1.4.1"
+        commit: "dd8a83ada51b6a2c371f11a0d91cf5d36ecbd984"
         
     cleanup:
       - '*.d'
